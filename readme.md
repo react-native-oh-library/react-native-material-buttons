@@ -25,14 +25,14 @@ Material buttons with consistent behaviour on iOS and Android
 ## Installation
 
 ```bash
-npm install --save react-native-material-buttons
+npm install --save @react-native-oh-tpl/react-native-material-buttons
 ```
 
 ## Usage
 
 ```javascript
 import React, { Component } from 'react';
-import { TextButton, RaisedTextButton } from 'react-native-material-buttons';
+import { TextButton, RaisedTextButton } from '@react-native-oh-tpl/react-native-material-buttons';
 
 class Example extends Component {
   _onPress = ({ id }) => {
@@ -89,7 +89,7 @@ Other [Ripple][ripple] properties will also work
 ## Example
 
 ```bash
-git clone https://github.com/n4kz/react-native-material-buttons
+git clone https://github.com/react-native-oh-library/react-native-material-buttons
 cd react-native-material-buttons/example
 npm install
 npm run ios # or npm run android
