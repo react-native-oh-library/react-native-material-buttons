@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/react-native-material-buttons",
-  "version": "0.6.1",
+  "version": "0.6.0-0.0.1",
   "license": "BSD-3-Clause",
   "author": "Alexander Nazarov <n4kz@n4kz.com>",
 
@@ -29,6 +29,10 @@
     "babel-eslint": "^10.0.0",
     "eslint": "^6.5.0",
     "eslint-plugin-react": "^7.0.0"
+  },
+
+  "harmony": {
+    "alias": "react-native-material-buttons"
   },
 
   "scripts": {
