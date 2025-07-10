@@ -1,6 +1,6 @@
 # @react-native-oh-tpl/react-native-material-buttons
 
-This project is based on [react-native-material-buttons](https://github.com/n4kz/react-native-material-buttons)
+This project is based on [react-native-material-buttons v0.6.0](https://github.com/n4kz/react-native-material-buttons/releases/tag/0.6.0)
 
 ## Documentation
 
